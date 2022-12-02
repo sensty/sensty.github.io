@@ -7,16 +7,28 @@
     "home_page_url": "https://sensty.github.io",
     "items": [
         {
-            "id": "https://sensty.github.io/2022/12/02/hello-world/",
-            "url": "https://sensty.github.io/2022/12/02/hello-world/",
+            "id": "https://sensty.github.io/test/hello-world/",
+            "url": "https://sensty.github.io/test/hello-world/",
             "title": "Hello World",
-            "date_published": "2022-12-02T14:51:07.113Z",
+            "date_published": "2022-12-02T16:34:35.440Z",
             "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
-            "tags": []
+            "tags": [
+                "test"
+            ]
         },
         {
-            "id": "https://sensty.github.io/2022/12/02/test_new/",
-            "url": "https://sensty.github.io/2022/12/02/test_new/",
+            "id": "https://sensty.github.io/test/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0-%E7%A6%81%E6%AD%A2%E8%AF%84%E8%AE%BA/",
+            "url": "https://sensty.github.io/test/%E7%BD%AE%E9%A1%B6%E6%96%87%E7%AB%A0-%E7%A6%81%E6%AD%A2%E8%AF%84%E8%AE%BA/",
+            "title": "置顶文章&禁止评论",
+            "date_published": "2022-12-02T15:58:37.000Z",
+            "content_html": "<h1 id=\"代码测试\"><a class=\"anchor\" href=\"#代码测试\">#</a> 代码测试</h1>\n<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;stdio.h></span></span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre><span class=\"token macro property\"><span class=\"token directive-hash\">#</span><span class=\"token directive keyword\">include</span> <span class=\"token string\">&lt;stdlib.h></span></span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre></pre></td></tr><tr><td data-num=\"4\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">main</span><span class=\"token punctuation\">(</span><span class=\"token keyword\">int</span> argc<span class=\"token punctuation\">,</span> <span class=\"token keyword\">char</span><span class=\"token operator\">*</span> argv<span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span><span class=\"token punctuation\">)</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre><span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>    <span class=\"token function\">printf</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"Hello World\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span></pre></td></tr><tr><td data-num=\"7\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure>",
+            "tags": [
+                "test"
+            ]
+        },
+        {
+            "id": "https://sensty.github.io/test/test_new/",
+            "url": "https://sensty.github.io/test/test_new/",
             "title": "新文章测试 & 公式测试",
             "date_published": "2022-12-02T08:59:21.000Z",
             "content_html": "<h1 id=\"新文章测试-公式测试\"><a class=\"anchor\" href=\"#新文章测试-公式测试\">#</a> 新文章测试 &amp; 公式测试</h1>\n<p><span class=\"katex-display\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><semantics><mrow><msubsup><mo>∫</mo><mrow><mo>−</mo><mi mathvariant=\"normal\">∞</mi></mrow><mi mathvariant=\"normal\">∞</mi></msubsup><mi>x</mi><mi>d</mi><mi>x</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding=\"application/x-tex\">\\int_{-\\infty}^{\\infty} x dx = 1\n</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:2.384573em;vertical-align:-0.970281em;\"></span><span class=\"mop\"><span class=\"mop op-symbol large-op\" style=\"margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;\">∫</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:1.414292em;\"><span style=\"top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">−</span><span class=\"mord mtight\">∞</span></span></span></span><span style=\"top:-3.8129000000000004em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">∞</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.970281em;\"><span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right:0.16666666666666666em;\"></span><span class=\"mord mathnormal\">x</span><span class=\"mord mathnormal\">d</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right:0.2777777777777778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right:0.2777777777777778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height:0.64444em;vertical-align:0em;\"></span><span class=\"mord\">1</span></span></span></span></span></p>\n",
@@ -25,12 +37,14 @@
             ]
         },
         {
-            "id": "https://sensty.github.io/2022/12/02/test/",
-            "url": "https://sensty.github.io/2022/12/02/test/",
+            "id": "https://sensty.github.io/test/test/",
+            "url": "https://sensty.github.io/test/test/",
             "title": "test",
             "date_published": "2022-12-02T08:25:21.000Z",
             "content_html": "<h1 id=\"vhdl的一些技巧\"><a class=\"anchor\" href=\"#vhdl的一些技巧\">#</a> VHDL 的一些技巧</h1>\n<ul>\n<li>\n<p>如果要使用 <code>rising_edge</code>  则需要添加 <code>use ieee.std_logic_1164.all</code> （ <code>use ieee.std_logic_1164.std_ulogic</code>  和 <code>use ieee.std_logic_1164.rising_edge</code> ）</p>\n</li>\n<li>\n<p>在同步语句中，异步执行语句放在同步语句前边</p>\n</li>\n<li>\n<p><code>signal</code>  相当于网表<br />\n如果用到了门电路，综合就会产生 LUT</p>\n</li>\n<li>\n<p>循环语句主要是起到简化代码书写和增加代码可读性的作用，此时，循环语句中控制循环次数的变量不会跟元件中的任何输入、输出端口或者信号量或者变量进行运算或比较，所以无论其它信号怎么变化都不会影响循环实现的功能</p>\n</li>\n<li>\n<p>循环语句的循环次数必须是有限的，因为循环语句是串行的，它必须依附于进程、过程或者函数语句，而进程本身就是一个不断循环的语句体，那么如果一个循环内部套了一个无限循环，那么显然，从代码上面我们就无法解释我们描述的到底是一个什么东西，并且从硬件上也得不到有意义的解。</p>\n</li>\n<li>\n<p>循环语句通常不应该作为功能语句使用，因为所有的循环功能都可以通过进程的循环特性来描述和表示。而循环语句作为功能描述时的抽象层级过高，很难确定编译器到底会怎么理解。</p>\n</li>\n<li></li>\n</ul>\n",
-            "tags": []
+            "tags": [
+                "test"
+            ]
         }
     ]
 }
