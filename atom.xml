@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sensty.github.io</id>
+    <title>Hexo</title>
+    <subtitle></subtitle>
+    <icon>https://sensty.github.io/images/favicon.ico</icon>
+    <link href="https://sensty.github.io" />
+    <author>
+      <name>Sensty</name>
+    </author>
+    <updated>2022-12-02T05:52:50.183Z</updated>
+</feed>

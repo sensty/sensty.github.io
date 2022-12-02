@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Hexo</title>
+        <subtitle></subtitle>
+        <icon>https://sensty.github.io/images/favicon.ico</icon>
+        <link>https://sensty.github.io</link>
+        <author>
+          <name>Sensty</name>
+        </author>
+        <description></description>
+        <language>en</language>
+        <pubDate>Fri, 02 Dec 2022 13:52:50 +0800</pubDate>
+        <lastBuildDate>Fri, 02 Dec 2022 13:52:50 +0800</lastBuildDate>
+    </channel>
+</rss>
