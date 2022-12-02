@@ -5,5 +5,22 @@
     "icon": "https://sensty.github.io/images/favicon.ico",
     "description": "",
     "home_page_url": "https://sensty.github.io",
-    "items": []
+    "items": [
+        {
+            "id": "https://sensty.github.io/2022/12/02/hello-world/",
+            "url": "https://sensty.github.io/2022/12/02/hello-world/",
+            "title": "Hello World",
+            "date_published": "2022-12-02T08:55:05.480Z",
+            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://sensty.github.io/2022/12/02/test/",
+            "url": "https://sensty.github.io/2022/12/02/test/",
+            "title": "test",
+            "date_published": "2022-12-02T08:25:21.000Z",
+            "content_html": "<h1 id=\"vhdl的一些技巧\"><a class=\"anchor\" href=\"#vhdl的一些技巧\">#</a> VHDL 的一些技巧</h1>\n<ul>\n<li>\n<p>如果要使用 <code>rising_edge</code>  则需要添加 <code>use ieee.std_logic_1164.all</code> （ <code>use ieee.std_logic_1164.std_ulogic</code>  和 <code>use ieee.std_logic_1164.rising_edge</code> ）</p>\n</li>\n<li>\n<p>在同步语句中，异步执行语句放在同步语句前边</p>\n</li>\n<li>\n<p><code>signal</code>  相当于网表<br />\n如果用到了门电路，综合就会产生 LUT</p>\n</li>\n<li>\n<p>循环语句主要是起到简化代码书写和增加代码可读性的作用，此时，循环语句中控制循环次数的变量不会跟元件中的任何输入、输出端口或者信号量或者变量进行运算或比较，所以无论其它信号怎么变化都不会影响循环实现的功能</p>\n</li>\n<li>\n<p>循环语句的循环次数必须是有限的，因为循环语句是串行的，它必须依附于进程、过程或者函数语句，而进程本身就是一个不断循环的语句体，那么如果一个循环内部套了一个无限循环，那么显然，从代码上面我们就无法解释我们描述的到底是一个什么东西，并且从硬件上也得不到有意义的解。</p>\n</li>\n<li>\n<p>循环语句通常不应该作为功能语句使用，因为所有的循环功能都可以通过进程的循环特性来描述和表示。而循环语句作为功能描述时的抽象层级过高，很难确定编译器到底会怎么理解。</p>\n</li>\n<li></li>\n</ul>\n",
+            "tags": []
+        }
+    ]
 }
